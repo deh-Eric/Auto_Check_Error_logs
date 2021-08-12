@@ -1,0 +1,6 @@
+{
+    "mail_user":"1",
+    "mail_pass":"2",
+    "receives":["3","4"],
+    "logs_path":"5"
+}
